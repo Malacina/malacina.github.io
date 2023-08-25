@@ -1,10 +1,11 @@
 ---
 layout: post
 year: 2022
-title: Supply chain innovation research: A bibliometric network analysis and literature review
+title: "Supply chain innovation research: A bibliometric network analysis and literature review"
 authors: Iryna Malacina, Roman Teplov
 venue: International Journal of Production Economics 
 vurl: https://www.sciencedirect.com/journal/international-journal-of-production-economics
+vatt: 251, 2022
 pub: https://www.sciencedirect.com/science/article/pii/S0925527322001335
 ---
 
