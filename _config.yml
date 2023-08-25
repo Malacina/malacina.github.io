@@ -1,16 +1,16 @@
 # Site metadata
-keywords: Cryptography, Privacy, Information Security, Digital Signatures
-description: Academic Website of David Derler
-title: Homepage of David Derler
+keywords: Network analysis, Supply chain management
+description: Academic Website of Iryna Malacina
+title: Homepage of Iryna Malacina
 
-author: David Derler
-authorimg: images/dd.png
-authoroccup: Engineering Manager
+author: Iryna Malacina
+authorimg: images/me.png
+authoroccup: researcher
 
-inst: DFINITY
-insturl: https://www.dfinity.org
-# uni: Graz University of Technology
-# uniurl: http://www.tugraz.at
+#inst: DFINITY
+#insturl: https://www.dfinity.org
+uni: Graz University of Technology
+uniurl: http://www.tugraz.at
 
 vcard: 'mailto:david@dfinity.org'
 office: https://online.tugraz.at/tug_online/ris.einzelraum?raumkey=4944
