@@ -42,12 +42,12 @@ h3, h4, h5, h6 {
 }
 
 a {
-  color:#6f57e6;
+  color:#556b2f;
   text-decoration:none;
 }
 
 a:hover {
-  color:#452dbf;
+  color:#556b2f;
 }
 
 .extlinks a {
@@ -72,7 +72,7 @@ table.dltable {
 }
 
 .download a i:hover {
-  color:#452dbf;
+  color:#556b2f;
 }
 
 .downloadpdf i {
@@ -85,7 +85,7 @@ table.dltable {
 }
 
 .downloadpdf a i:hover {
-  color:#452dbf;
+  color:#556b2f;
 }
 
 a small {
