@@ -4,5 +4,6 @@ year: 2022
 title: Decoupling firm growth from carbon emissions in the aerospace supply network
 authors: Iryna Malacina, Jaan-Pauli Kimpimäki, Axel Zehendner
 venue: EUROMA 2022
+vurl: http://www.euroma-online.org/
 ---
 
