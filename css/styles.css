@@ -207,6 +207,13 @@ li a i.fa {
   height: 200px; /* Set the height */
 }
 
+.timeline .entry {
+  margin-bottom: 1.5em;
+}
+.timeline .date {
+  font-weight: bold;
+}
+
 .download i {
   font-size:16px;
 }
