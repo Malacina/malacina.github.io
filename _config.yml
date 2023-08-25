@@ -5,20 +5,18 @@ title: Homepage of Iryna Malacina
 
 author: Iryna Malacina
 authorimg: images/myphoto2.jpg
-authoroccup: researcher
+authoroccup: Researcher
 
-#inst: DFINITY
-#insturl: https://www.dfinity.org
-uni: Graz University of Technology
-uniurl: http://www.tugraz.at
+uni: LUT University
+uniurl: http://www.lut.fi
 
-vcard: 'mailto:david@dfinity.org'
-office: https://online.tugraz.at/tug_online/ris.einzelraum?raumkey=4944
-twitter: dderler
-keybase: dderler
+vcard: 'mailto:iryna.maliatsina@lut.fi'
+#office: https://online.tugraz.at/tug_online/ris.einzelraum?raumkey=4944
+twitter: IrynaMalacina
+#keybase: dderler
 linkedin: david-derler-08630495
-dblp: hd/d/Derler:David
-scholar: YfMKI0wAAAAJ
+#dblp: hd/d/Derler:David
+scholar: -RxwRJcAAAAJ&hl
 
 # Build settings
 markdown: kramdown
@@ -36,5 +34,6 @@ collections:
 exclude:
   - Gemfile
   - Gemfile.lock
+    - keybase.txt
 include:
-  - keybase.txt
+
