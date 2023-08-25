@@ -1,10 +1,9 @@
 ---
 layout: post
-year: 2014
-title: Design und Implementierung eines Localhost Signaturgateways
-authors: David Derler, Christof Rath, Moritz Horsch, Tobias Wich
-venue: D-A-CH Security 2014
-vurl: https://www.syssec.at/dachsecurity2014/
-talk: publications/talks/talk-esign.pdf
+year: 2023
+title: Creating value in infrastructure procurement - a practice-based view
+authors: Kirsi Lindfors, Aki Jääskeläinen, Iryna Malacina
+venue: IPSERA 2023
+vurl: https://www.ipsera.com/
 ---
 
