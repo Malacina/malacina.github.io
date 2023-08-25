@@ -1,10 +1,11 @@
 ---
 layout: post
-year: 2014
-title: "Towards Secure Mobile Computing: Employing Power-Consumption Information to Detect Malware on Mobile Devices"
-authors: Thomas Zefferer, Peter Teufl, David Derler, Klaus Potzmader, Alexander Oprisnik, Hubert Gasparitz, Andrea Höller
-venue: International Journal on Advances in Software
-vurl: https://www.iariajournals.org/software/index.html
-vatt: "7(1&2), 2014"
+year: 2022
+title: "Open and sustainable: An emerging frontier in innovation management?"
+authors: Jaan-Pauli Kimpimäki, Iryna Malacina, Oskari Lähdeaho 
+venue: Technological Forecasting and Social Change
+vurl: https://www.sciencedirect.com/journal/technological-forecasting-and-social-change
+vatt: 174, 2022
+pub: https://www.sciencedirect.com/science/article/pii/S0040162521006624
 ---
 
