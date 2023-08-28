@@ -6,6 +6,7 @@ authors: Iryna Malacina, Katrina Lintugangas
 venue: EUROMA 2023
 vurl: http://www.euroma-online.org/
 talk: publications/talks/euroma2023.pdf
+vatt: [Harry Boer Best Student Paper Award]
 
 ---
 
