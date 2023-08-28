@@ -5,7 +5,7 @@ title: "Capturing the value creation in public procurement: A practice-based vie
 authors: Iryna Malacina, Elina Karttunen, Aki Jääskeläinen, Katrina Lintukangas, Jussi Heikkilä, Anni-Kaisa Kähkönen
 venue: Journal of Purchasing and Supply Management 
 vurl: https://www.sciencedirect.com/journal/journal-of-purchasing-and-supply-management
-vatt: 28, 2022
+vatt: 28, 2022 [The most downloaded articles in the last 90 days]
 pub: https://www.sciencedirect.com/science/article/pii/S1478409221000844
 ---
 
