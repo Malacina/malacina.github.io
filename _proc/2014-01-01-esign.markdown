@@ -5,6 +5,6 @@ title: Creating value in infrastructure procurement - a practice-based view
 authors: Kirsi Lindfors, Aki Jääskeläinen, Iryna Malacina
 venue: IPSERA 2023
 vurl: https://www.ipsera.com/
-vatt: [Best Paper Award]
+vatt: ; Best Paper Award
 ---
 
