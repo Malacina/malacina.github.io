@@ -1,1 +1,10 @@
+---
+layout: post
+year: 2024
+title: "On the Edge: A Multilevel Perspective on Innovation Complexities and Dynamic Attractors in the Supply Network"
+authors: Iryna Malacina, Katrina Lintukangas
+venue: International Journal of Operations and Production Management
+vurl: https://www.emerald.com/insight/publication/issn/0144-3577
+vatt: 2024; ahead of print
+---
 
