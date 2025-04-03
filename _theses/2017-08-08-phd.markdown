@@ -1,1 +1,9 @@
-
+---
+layout: post
+year: 2022
+title: "Zooming in and out : the strategic management of innovation across multiple levels of complex supply networks?"
+authors: Iryna Malacina
+vurl: "Opponent: Prof. Steven Carnovale, College of Business, Florida Atlantic University"
+vatt: "Examiner: Prof. Marcus Bellamy, Questrom School of Business, Boston University"
+pub: https://www.sciencedirect.com/science/article/pii/S0040162521006624
+---
