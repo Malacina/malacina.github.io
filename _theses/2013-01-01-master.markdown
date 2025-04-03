@@ -7,3 +7,7 @@ vurl: "Opponent: Prof. Steven Carnovale, College of Business, Florida Atlantic U
 vatt: "Examiner: Prof. Marcus Bellamy, Questrom School of Business, Boston University"
 pub: https://www.sciencedirect.com/science/article/pii/S0040162521006624
 ---
+## Introduction
+
+Your main content goes here. You can start writing your introduction, analysis, or any other text you want to display on the page.
+
