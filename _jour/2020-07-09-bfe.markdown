@@ -5,6 +5,6 @@ title: "On the Edge: A Multilevel Perspective on Innovation Complexities and Dyn
 authors: Iryna Malacina, Katrina Lintukangas
 venue: International Journal of Operations and Production Management
 vurl: https://www.emerald.com/insight/publication/issn/0144-3577
-vatt: 2024; ahead of print
+vatt: https://doi.org/10.1108/IJOPM-12-2023-0929
 ---
 
