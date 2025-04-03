@@ -5,5 +5,5 @@ title: "Zooming in and out : the strategic management of innovation across multi
 authors: Iryna Malacina
 vurl: "Opponent: Prof. Steven Carnovale, College of Business, Florida Atlantic University"
 vatt: "Opponent: Prof. Steven Carnovale; Examiner: Prof. Marcus Bellamy"
-pub: [https://www.sciencedirect.com/science/article/pii/S0040162521006624](https://lutpub.lut.fi/bitstream/handle/10024/166334/Iryna%20Malacina_A4.pdf?sequence=1&isAllowed=y)
+pub: https://lutpub.lut.fi/bitstream/handle/10024/166334/Iryna%20Malacina_A4.pdf?sequence=1&isAllowed=y
 ---
